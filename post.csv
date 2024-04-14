@@ -1,0 +1,101 @@
+post_id,photo_id,video_id,user_id,caption,location
+1,15,3,24,Embracing the beauty of simplicity.,Mumbai
+2,21,47,28,Chasing sunsets and dreams.,Delhi
+3,45,6,37,Living for the moments that take our breath away.,Kolkata
+4,7,37,23,Wanderlust and city dust.,Chennai
+5,4,22,35,Finding joy in the little things.,Bengaluru
+6,37,18,36,Creating my own sunshine.,Hyderabad
+7,11,12,37,Exploring new horizons.,Pune
+8,50,30,6,"Happiness is a journey, not a destination.",Jaipur
+9,15,31,7,Lost in wanderlust.,Ahmedabad
+10,10,44,44,Adventure awaits just around the corner.,Kochi
+11,8,32,5,Every day is a fresh start.,Lucknow
+12,9,25,32,Letting go and letting life happen.,Varanasi
+13,4,13,4,Living life with no regrets.,Bhopal
+14,36,12,47,Dancing in the rain of possibilities.,Chandigarh
+15,45,40,30,Sunshine mixed with a little hurricane.,Indore
+16,39,17,35,"In the end, we only regret the chances we didn't take.",Goa
+17,7,31,9,Savoring the simple moments.,Agra
+18,17,27,13,"Collecting memories, not things.",Surat
+19,49,48,2,"Life is short, make every moment count.",Visakhapatnam
+20,44,30,20,"Dream big, work hard, stay focused.",Nagpur
+21,18,8,11,The journey of a thousand miles begins with a single step.,Patna
+22,47,7,38,Life is a beautiful ride.,Kanpur
+23,40,32,4,Keep your face towards the sunshine and shadows will fall behind you.,Thiruvananthapuram
+24,45,24,6,"Love the life you live, live the life you love.",Coimbatore
+25,31,27,14,Life's too short to wait.,Amritsar
+26,39,11,14,Chasing sunsets and dreams.,Vadodara
+27,38,7,16,Living on cloud nine.,Jodhpur
+28,38,14,23,"Spreading positivity, one post at a time.",Allahabad
+29,41,35,9,"Life is a canvas, make it a masterpiece.",Ranchi
+30,1,9,15,Taking the road less traveled.,Vijayawada
+31,39,14,21,"Dream without fear, love without limits.",Madurai
+32,42,3,5,Find joy in the ordinary.,Guwahati
+33,17,45,1,Making memories all around the world.,Jammu
+34,2,15,25,Grateful for every sunrise and sunset.,Rajkot
+35,2,20,40,Happiness is homemade.,Cuttack
+36,24,33,26,"Life's a journey, enjoy the ride.",Varanasi
+37,7,15,4,Be fearless in the pursuit of what sets your soul on fire.,Shimla
+38,46,1,38,Leave a little sparkle wherever you go.,Mysore
+39,25,25,47,Enjoying the little things in life.,Raipur
+40,49,6,39,"Smile, it's contagious.",Dehradun
+41,49,45,5,Living life with a grateful heart.,Bhubaneswar
+42,21,30,47,Follow your heart and see where it leads you.,Gurgaon
+43,13,39,42,Life is better with sandy toes and salty kisses.,Noida
+44,18,39,42,"Find your tribe, love them hard.",Faridabad
+45,35,20,3,"Embrace the journey, trust the process.",Ghaziabad
+46,25,24,7,"Life is a story, make yours a bestseller.",Udaipur
+47,35,45,18,Good vibes only.,Jamshedpur
+48,45,28,47,Adventure is out there.,Mangalore
+49,22,9,23,"Stay wild, moon child.",Jabalpur
+50,26,12,7,"Choose joy, spread love.",Navi Mumbai
+51,46,10,43,Seize the day.,Nashik
+52,28,39,3,"Be fearless, be bold, be you.",Aurangabad
+53,38,46,11,Life is too short to be anything but happy.,Meerut
+54,14,20,22,Believe you can and you're halfway there.,Dhanbad
+55,28,17,42,Let your dreams be your wings.,Siliguri
+56,29,17,34,"Inhale courage, exhale fear.",Allahabad
+57,15,36,40,Adventure is calling.,Howrah
+58,49,28,40,Dare to be different.,Asansol
+59,36,21,20,Be the energy you want to attract.,Durgapur
+60,46,33,37,Be the reason someone smiles today.,Kolhapur
+61,22,16,10,"Life is about moments: don't wait for them, create them.",Akola
+62,15,37,9,Live life in full bloom.,Kurnool
+63,9,43,14,Find beauty in the chaos.,Rajahmundry
+64,33,4,13,"Life is short, buy the shoes.",Warangal
+65,50,30,7,"Dream big, sparkle more, shine bright.",Mangalore
+66,4,4,20,"Make today so awesome, yesterday gets jealous.",Belgaum
+67,13,20,17,Stay close to people who feel like sunshine.,Tiruchirappalli
+68,44,42,12,Embrace the glorious mess that you are.,Salem
+69,16,23,37,"Life is tough, but so are you.",Bhilai
+70,17,39,40,"She believed she could, so she did.",Gwalior
+71,10,39,29,"Life is short, make it sweet.",Ajmer
+72,28,14,31,Leave a little sparkle wherever you go.,Erode
+73,20,47,8,Create your own sunshine.,Tiruppur
+74,13,27,37,Choose kindness and laugh often.,Jhansi
+75,6,21,5,"Life is a journey, not a destination.",Kochi
+76,32,21,19,Live in the moment.,Kannur
+77,40,15,19,"Breathe in courage, exhale fear.",Kozhikode
+78,3,17,38,Dance like nobody's watching.,Thoothukudi
+79,36,30,29,"Be a voice, not an echo.",Thanjavur
+80,25,14,18,"Life is short, eat the cake.",Dindigul
+81,41,2,37,Life is a beautiful mess.,Srinagar
+82,32,32,26,Be the change you wish to see in the world.,Pondicherry
+83,15,6,40,"Live, laugh, love.",Jalandhar
+84,8,9,29,Find joy in the journey.,Saharanpur
+85,19,28,27,Make today amazing.,Gorakhpur
+86,48,30,27,Do what makes your soul happy.,Hubli
+87,40,14,16,"Life is tough, but so are you.",Rohtak
+88,22,18,14,The best is yet to come.,Aligarh
+89,49,48,43,Follow your dreams.,Moradabad
+90,32,12,30,"Be a voice, not an echo.",Bathinda
+91,17,23,3,The best time for new beginnings is now.,Ujjain
+92,33,8,11,"Don't just exist, live.",Sangli
+93,19,40,45,Life is better when you're laughing.,Muzaffarpur
+94,49,27,44,Stay focused and extra sparkly.,Ajmer
+95,41,3,26,Live for the moments you can't put into words.,Amravati
+96,22,4,47,"Wake up, spread happiness, repeat.",Mathura
+97,36,34,7,"Keep shining, beautiful one.",Bhagalpur
+98,6,34,50,Believe you can and you're halfway there.,Bilaspur
+99,23,1,30,Find beauty in every day.,Kollam
+100,31,45,36,The secret of getting ahead is getting started.,Kottayam
